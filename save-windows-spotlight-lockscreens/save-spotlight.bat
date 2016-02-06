@@ -1,6 +1,6 @@
 @echo off
 if [%1]==[] (
-	set base_path=%USERPROFILE%\Pictures\Spotlight
+	set base_path=%USERPROFILE%\OneDrive\Pictures\Spotlight
 ) else (
 	set base_path=%1
 )
